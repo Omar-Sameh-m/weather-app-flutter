@@ -63,6 +63,7 @@ lib/
 ├── widgets/           # Reusable UI components
 ```
 
+<img width="470" height="936" alt="Screenshot 2025-09-14 120938" src="https://github.com/user-attachments/assets/8e374f0a-9349-418a-921c-8d2569d44895" />
 
 ---
 
